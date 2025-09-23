@@ -1,0 +1,20 @@
+
+.header {
+  background-color: rgb(25, 27, 39);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;  
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 1.25vh;
+  }
+
+.logo {
+  height: 7vh;
+  display: block;
+
+  }
+  
+ 
